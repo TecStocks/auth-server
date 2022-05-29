@@ -1,0 +1,152 @@
+[
+  {
+    "Username": "João Pedro",
+    "Login": "jpedro",
+    "Password": "501358",
+    "Equipment": "Mercedes, BMW, Porsche"
+  },
+  {
+    "Username": "Maria Silva",
+    "Login": "msilva",
+    "Password": "917401",
+    "Equipment": "Mercedes, Lamborghini"
+  },
+  {
+    "Username": "Natália Moraes",
+    "Login": "nmoraes",
+    "Password": "308650",
+    "Equipment": "Lamborghini, Ferrari"
+  },
+  {
+    "Username": "Marcelo Santos",
+    "Login": "msantos",
+    "Password": "927317",
+    "Equipment": "Corvette"
+  },
+  {
+    "Username": "Matheus Araújo",
+    "Login": "maraujo",
+    "Password": "880363",
+    "Equipment": "BMW"
+  },
+  {
+    "Username": "Joaquim Ferreira",
+    "Login": "jferreira",
+    "Password": "843630",
+    "Equipment": "Ferrari"
+  },
+  {
+    "Username": "Ângela Diniz",
+    "Login": "adiniz",
+    "Password": "701841",
+    "Equipment": "Corvette"
+  },
+  {
+    "Username": "Paula Sandoval",
+    "Login": "psandoval",
+    "Password": "147266",
+    "Equipment": "Lamborghini"
+  },
+  {
+    "Username": "Kátia Oliveira",
+    "Login": "koliveira",
+    "Password": "429260",
+    "Equipment": "Mustang"
+  },
+  {
+    "Username": "Ricardo Pereira",
+    "Login": "rpereira",
+    "Password": "393090",
+    "Equipment": "Porsche"
+  },
+  {
+    "Username": "Paulo Marcelo",
+    "Login": "pmarcelo",
+    "Password": "319262",
+    "Equipment": "Porsche, Mustang"
+  },
+  {
+    "Username": "Luiz da Silva",
+    "Login": "lsilva",
+    "Password": "594552",
+    "Equipment": "Corvette"
+  },
+  {
+    "Username": "Antônio Carvalho",
+    "Login": "acarvalho",
+    "Password": "731879",
+    "Equipment": "Mercedes"
+  },
+  {
+    "Username": "Sabrina Botelho",
+    "Login": "sbotelho",
+    "Password": "579222",
+    "Equipment": "Mercedes"
+  },
+  {
+    "Username": "Yuri Gastão",
+    "Login": "ygastao",
+    "Password": "324534",
+    "Equipment": "Porsche, BMW"
+  },
+  {
+    "Username": "Sílvia Soares",
+    "Login": "ssoares",
+    "Password": "798298",
+    "Equipment": "Porsche, Corvette"
+  },
+  {
+    "Username": "Patrícia Medina",
+    "Login": "pmedina",
+    "Password": "932405",
+    "Equipment": "Porsche"
+  },
+  {
+    "Username": "Rafael Duarte",
+    "Login": "rduarte",
+    "Password": "275227",
+    "Equipment": "Mustang"
+  },
+  {
+    "Username": "Dênis Olive",
+    "Login": "dolive",
+    "Password": "615346",
+    "Equipment": "Corvette"
+  },
+  {
+    "Username": "Carlos Montijo",
+    "Login": "cmontijo",
+    "Password": "869331",
+    "Equipment": "Porsche"
+  },
+  {
+    "Username": "John Smith",
+    "Login": "jsmith",
+    "Password": "441941",
+    "Equipment": "Mercedes"
+  },
+  {
+    "Username": "Mike Taylor",
+    "Login": "mtaylor",
+    "Password": "424783",
+    "Equipment": "Corvette"
+  },
+  {
+    "Username": "Robert Clayde",
+    "Login": "rclayte",
+    "Password": "912857",
+    "Equipment": "BMW"
+  },
+  {
+    "Username": "Rosane Mathews",
+    "Login": "rmathews",
+    "Password": "688234",
+    "Equipment": "Corvette"
+  },
+  {
+    "Username": "Elisabeth Dior",
+    "Login": "edior",
+    "Password": "318884",
+    "Equipment": "Porsche"
+  }
+]

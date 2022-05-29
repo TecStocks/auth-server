@@ -1,0 +1,26 @@
+### ___________________________________________________________________________________
+@HOST=http://localhost:3000
+### ___________________________________________________________________________________
+
+GET {{HOST}}/ HTTP/1.1
+
+### SIGNUP
+POST {{HOST}}/signup HTTP/1.1
+Content-Type: application/json
+
+{
+  "name": "joao",
+  "login": "joao",
+  "password": "1234test",
+  "equipment": ["BMW", "Ferrari"]
+}
+
+### LOGIN
+POST {{HOST}}/login HTTP/1.1
+Content-Type: application/json
+
+{
+  "login": "joao",
+  "password": "1234test"
+}
+
