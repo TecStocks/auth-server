@@ -4,7 +4,7 @@ const db = require('./database/mongodb')
 
 const populate = require('./services/populateDB')
 
-const PORT = process.env.PORT | 3000
+const PORT = process.env.PORT | 3002
 const HOST = '127.0.0.1'
 
 // populate()

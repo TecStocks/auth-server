@@ -18,15 +18,11 @@ class UsuarioController {
     let response = data ? 200 : 401
 
     if (response == 200) {
-      const token = jwt.sign({ id: data._id }, secret, {
-        expiresIn: '15m'
-      })
       user = {
-        _id: data[0]._id,
-        username: data[0].name,
-        login: data[0].login,
-        equipment: data[0].equipment,
-        token: token
+        _id: data._id,
+        username: data.Username,
+        login: data.Login,
+        equipment: data.Equipment
       }
     } else {
       user = {

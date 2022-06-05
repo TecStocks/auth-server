@@ -14,10 +14,10 @@ class AdminController {
 
       User.create(
         {
-          name: req.body.name,
-          login: req.body.login,
-          password: hashedPassword,
-          equipment: req.body.equipment
+          Username: req.body.name,
+          Login: req.body.login,
+          Password: hashedPassword,
+          Equipment: req.body.equipment
         },
         (err, user) => {
           if (err) {

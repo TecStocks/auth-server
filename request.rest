@@ -1,5 +1,5 @@
 ### ___________________________________________________________________________________
-@HOST=http://localhost:3000
+@HOST=http://localhost:3002
 ### ___________________________________________________________________________________
 
 GET {{HOST}}/ HTTP/1.1
@@ -10,7 +10,7 @@ Content-Type: application/json
 
 {
   "name": "joao",
-  "login": "joao",
+  "login": "jtmls",
   "password": "1234test",
   "equipment": ["BMW", "Ferrari"]
 }
@@ -20,7 +20,7 @@ POST {{HOST}}/login HTTP/1.1
 Content-Type: application/json
 
 {
-  "login": "joao",
+  "login": "jtmls",
   "password": "1234test"
 }
 

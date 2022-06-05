@@ -2,10 +2,11 @@ const User = require('../models/UserSchema')
 const bcrypt = require('bcrypt')
 
 const authenticate = async (login, password) => {
-  let data = await User.find({ login: login })
-  console.log(data)
   try {
-    let hash = await bcrypt.compare(password, data[0].password)
+    let data = await User.findOne({ Login: login })
+    let hash = await bcrypt.compare(password, data.Password)
+    console.log(data)
+    console.log(hash)
     if (hash) {
       return data
     } else {
